@@ -54,8 +54,8 @@
 		4D5B29EA1ED2B57A00B24273 /* TestArchive */ = {
 			isa = PBXGroup;
 			children = (
-				4D5B29EB1ED2B57A00B24273 /* AppDelegate.swift */,
 				4D5B29ED1ED2B57A00B24273 /* ViewController.swift */,
+				4D5B29EB1ED2B57A00B24273 /* AppDelegate.swift */,
 				4D5B29EF1ED2B57A00B24273 /* Main.storyboard */,
 				4D5B29F21ED2B57A00B24273 /* Assets.xcassets */,
 				4D5B29F41ED2B57A00B24273 /* LaunchScreen.storyboard */,

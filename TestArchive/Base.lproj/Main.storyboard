@@ -23,10 +23,11 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="APP打包测试" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tlE-gV-LnG">
                                 <rect key="frame" x="137" y="323.5" width="101.5" height="20.5"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
+                        <color key="backgroundColor" red="0.40000000600000002" green="0.80000001190000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="tlE-gV-LnG" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ADo-V2-Zuy"/>
                             <constraint firstItem="tlE-gV-LnG" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="TgL-sK-Cgs"/>
